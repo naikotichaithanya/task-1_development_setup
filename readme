@@ -1,0 +1,26 @@
+# Blog Management System
+
+## Project Overview
+This project is a simple Blog Management System developed using PHP and MySQL. The system allows users to register, login, add blog posts, edit posts, delete posts, and search content.
+
+
+# Task 1 – Development Setup
+
+## Objective
+Setup PHP development environment using XAMPP and VS Code.
+
+## Tools Used
+- XAMPP
+- PHP
+- MySQL
+- VS Code
+
+## Work Done
+- Installed XAMPP
+- Started Apache and MySQL
+- Created project folder in htdocs
+- Connected project with localhost
+
+## Files
+- index.php
+- db.php
